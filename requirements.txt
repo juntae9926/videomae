@@ -1,0 +1,7 @@
+timm==0.4.9
+decord
+pandas
+einops
+scipy
+opencv-python
+tensorboardx
